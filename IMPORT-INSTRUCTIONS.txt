@@ -1,0 +1,13 @@
+ARQUEBUS INTELLIGENCE — HOMEPAGE REDESIGN PREVIEW
+
+IMPORT INTO YOUR EXISTING GITHUB CLONE
+1. In GitHub Desktop, make sure the current branch is homepage-redesign-preview (or your chosen redesign branch), NOT main/production.
+2. Open the local repository folder using Repository > Show in Explorer/Finder.
+3. Extract this ZIP and copy the CONTENTS of the extracted folder directly into the root of the cloned repository. Do not copy a nested folder in place of the repository root.
+4. Allow matching files to be replaced on the redesign branch. Keep the .git folder untouched; it is not included in this ZIP.
+5. Return to GitHub Desktop and review the changed files. Commit and push only after reviewing the diff.
+6. Vercel should create a Preview deployment for the pushed branch. Confirm it says Preview before opening/testing it.
+
+The production branch and live domain are not changed by these local file operations. Do not merge this branch into production until the redesign has been reviewed and approved.
+
+This is a static HTML/CSS site and has no build step. The enquiry form endpoint must be tested end-to-end before production release; browser-side success alone does not prove that a submission was recorded.

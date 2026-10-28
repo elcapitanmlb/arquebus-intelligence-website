@@ -1,23 +1,9 @@
-ARQUEBUS INTELLIGENCE — WEBSITE UPDATE NOTES (V9)
+ARQUEBUS INTELLIGENCE — WEBSITE UPDATE NOTES (V10)
 
-Homepage bottom section restored and updated; it was not intended to be deleted.
-The homepage keeps the approved hero, then a bottom Strategic Visibility Review section
-with the agreed headline and the updated five-item review coverage list.
+Homepage updates requested:
+- Added a compact “Book a Review” CTA at the right end of the header navigation. It uses the existing button style and sits after the navigation links; on mobile it appears in the expanded menu to avoid crowding the logo and menu toggle.
+- Changed the hero eyebrow to: “Search strategy · AI visibility · GTM alignment”.
+- Swapped the two homepage headlines: hero headline is now “Show up ahead of your competitors when buyers are searching.”; bottom section headline is now “Show up when and where your customers are looking.”
+- Kept the homepage bottom review section, its coverage card, footer, and the other pages intact.
 
-Bottom section headline:
-“Show up ahead of your competitors when buyers are searching.”
-
-Section heading:
-“What the review covers”
-
-Coverage list:
-1. Positioning, Messaging & GTM Alignment
-2. Search visibility and technical foundations
-3. Buyer research and content opportunities
-4. Competitor visibility gaps
-5. A 90-day growth roadmap
-
-The homepage remains simplified: the removed redundant positioning/trust-strip and
-What We Do / A Practical Approach / Who We Help sections are not restored.
-Their dedicated pages remain. Footer remains present.
-This package contains website files only; do not overwrite the repository's .git folder.
+Website files only. Do not overwrite or delete the repository .git folder.

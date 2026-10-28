@@ -1,11 +1,7 @@
-HOMEPAGE REDESIGN V2 — POSITIONING AND CONCISION
+HOMEPAGE UPDATE NOTES — V2
 
-Changes in this revision:
-- Uses the requested hero: “Turn buyer research into predictable inbound growth.”
-- Incorporates the full positioning statement in a concise section beneath the hero.
-- Shortens the homepage by removing the standalone long problem explanation, founder section, and homepage FAQ. Those details remain accessible through the Services, How We Work, Who We Help, About, and Strategic Visibility Review pages.
-- Keeps a single primary conversion action: Book a Strategic Visibility Review.
-- Retains the four initial prospecting priorities without making them exclusive industries.
-- Updates homepage title and meta description to align with the positioning.
-
-Import into the existing repository while checked out to homepage-redesign-preview, not main. Copy the contents of this ZIP to the repository root, preserving .git. Review changes, commit and push; then inspect the Vercel Preview deployment. Do not merge into production until approved.
+- Hero is the primary positioning and conversion section.
+- The redundant “Our positioning” section and the four-item trust strip have been removed.
+- The “What we do” section now follows the hero directly.
+- Main CTA remains “Book a Strategic Visibility Review”.
+- Keep changes on homepage-redesign-preview until reviewed. Do not merge to main yet.

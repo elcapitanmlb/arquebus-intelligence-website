@@ -1,4 +1,4 @@
-ARQUEBUS INTELLIGENCE WEBSITE — V7 (REGENERATED)
+ARQUEBUS INTELLIGENCE WEBSITE — V6 (CORRECTED)
 
 This full website package contains the latest approved edits.
 

@@ -1,18 +1,23 @@
-ARQUEBUS INTELLIGENCE — WEBSITE UPDATE NOTES (V8)
+ARQUEBUS INTELLIGENCE — WEBSITE UPDATE NOTES (V9)
 
-This package removes the outdated “Start with clarity / Find the gaps between your expertise…” section
-from the homepage. The homepage now presents the approved hero and directs visitors to the dedicated
-service and Strategic Visibility Review pages.
+Homepage bottom section restored and updated; it was not intended to be deleted.
+The homepage keeps the approved hero, then a bottom Strategic Visibility Review section
+with the agreed headline and the updated five-item review coverage list.
 
-Approved homepage hero:
-- Show up when and where your customers are looking.
-- Search strategy · GTM alignment · AI visibility
-- Approved introductory and supporting paragraphs retained.
+Bottom section headline:
+“Show up ahead of your competitors when buyers are searching.”
 
-Strategic Visibility Review page:
-- Show up ahead of your competitors when buyers are searching.
-- Section heading: What the review covers
-- Includes Positioning, Messaging & GTM Alignment; Search visibility and technical foundations;
-  Buyer research and content opportunities; Competitor visibility gaps; A 90-day growth roadmap.
+Section heading:
+“What the review covers”
 
-The package is website files only and does not include Git metadata.
+Coverage list:
+1. Positioning, Messaging & GTM Alignment
+2. Search visibility and technical foundations
+3. Buyer research and content opportunities
+4. Competitor visibility gaps
+5. A 90-day growth roadmap
+
+The homepage remains simplified: the removed redundant positioning/trust-strip and
+What We Do / A Practical Approach / Who We Help sections are not restored.
+Their dedicated pages remain. Footer remains present.
+This package contains website files only; do not overwrite the repository's .git folder.

@@ -1,9 +1,13 @@
-ARQUEBUS INTELLIGENCE — WEBSITE UPDATE NOTES (V10)
+ARQUEBUS INTELLIGENCE WEBSITE V11
 
-Homepage updates requested:
-- Added a compact “Book a Review” CTA at the right end of the header navigation. It uses the existing button style and sits after the navigation links; on mobile it appears in the expanded menu to avoid crowding the logo and menu toggle.
-- Changed the hero eyebrow to: “Search strategy · AI visibility · GTM alignment”.
-- Swapped the two homepage headlines: hero headline is now “Show up ahead of your competitors when buyers are searching.”; bottom section headline is now “Show up when and where your customers are looking.”
-- Kept the homepage bottom review section, its coverage card, footer, and the other pages intact.
+Updated only the What We Do page (services/index.html), with related page metadata.
 
-Website files only. Do not overwrite or delete the repository .git folder.
+Changes:
+- Removed the yellow “Services” eyebrow above the hero.
+- Hero headline: “Search Infrastructure for more efficient, measurable growth.”
+- Supporting copy positions Search Infrastructure around GTM strategy and explains its role in discovery, credibility and conversion across organic search, paid acquisition and outbound.
+- Updated page title and metadata to establish Search Infrastructure as the category.
+- Checked that the What We Do page contains no em dash characters.
+
+All other website files are retained from the working V10 package.
+This ZIP contains website files only. Do not overwrite or delete the repository’s .git folder.

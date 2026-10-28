@@ -1,19 +1,22 @@
-HOMEPAGE / NAVIGATION UPDATE NOTES — V4
+ARQUEBUS INTELLIGENCE WEBSITE — V5
 
-Navigation is now ordered left to right:
-1. What We Do → /services/
-2. Who We Help → /who-we-help/
-3. How We Work → /how-we-work/
-4. Contact → /strategic-visibility-review/
-5. About → /about/
+Approved changes:
+- Strategic Visibility Review headline: “Show up ahead of your competitors when buyers are searching.”
+- Review coverage, in order:
+  1. Positioning, Messaging & GTM Alignment
+  2. Search visibility and technical foundations
+  3. Buyer research and content opportunities
+  4. Competitor visibility gaps
+  5. A 90-day growth roadmap
+- Removed footer navigation and social links, retaining logo, description and email.
+- Preserved the existing homepage and five-link header navigation.
+- All website pages and required assets are included.
 
-The navigation is consistent across all HTML pages. The separate “Book a Strategic Visibility Review” CTA remains in the hero body, where it can serve as the primary conversion action. The header CTA button was removed to keep the header aligned with the requested five navigation links.
-
-Import safely:
+SAFE IMPORT:
 1. In GitHub Desktop, select homepage-redesign-preview, NOT main.
 2. Choose Repository > Show in Explorer.
-3. Keep the existing .git folder untouched.
-4. Extract this ZIP into a temporary folder and copy all contents into the repository root, replacing matching website files.
+3. Do not replace or delete the hidden .git folder.
+4. Extract this ZIP to a temporary folder and copy its contents into the existing repository root, replacing matching website files.
 5. Review changes in GitHub Desktop before committing.
 6. Commit and push to homepage-redesign-preview.
-7. Check the Vercel Preview deployment; do not merge into main or promote to Production until approved.
+7. Check the Vercel Preview deployment. Do not merge into main or promote to Production until approved.

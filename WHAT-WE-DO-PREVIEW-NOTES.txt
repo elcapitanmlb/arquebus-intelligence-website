@@ -1,0 +1,11 @@
+V12 PREVIEW NOTES
+
+Updates the What We Do page only.
+- Retains the approved Search Infrastructure hero from V11.
+- Adds a four-stage visual workflow: Diagnose, Align, Integrate, Optimise.
+- Adds a cross-channel diagram showing Search Infrastructure supporting organic, paid and outbound.
+- Adds shared commercial outcomes and a Strategic Visibility Review CTA.
+- Includes responsive styles for desktop and mobile.
+- The written What We Do HTML has been checked for em dash characters.
+
+Preview only. ZIP contains website files, not Git metadata. Keep .git when copying files into the repository.

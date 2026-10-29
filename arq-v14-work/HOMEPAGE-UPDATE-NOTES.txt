@@ -1,0 +1,13 @@
+ARQUEBUS INTELLIGENCE WEBSITE V11
+
+Updated only the What We Do page (services/index.html), with related page metadata.
+
+Changes:
+- Removed the yellow “Services” eyebrow above the hero.
+- Hero headline: “Search Infrastructure for more efficient, measurable growth.”
+- Supporting copy positions Search Infrastructure around GTM strategy and explains its role in discovery, credibility and conversion across organic search, paid acquisition and outbound.
+- Updated page title and metadata to establish Search Infrastructure as the category.
+- Checked that the What We Do page contains no em dash characters.
+
+All other website files are retained from the working V10 package.
+This ZIP contains website files only. Do not overwrite or delete the repository’s .git folder.

@@ -1,0 +1,11 @@
+ARQUEBUS INTELLIGENCE WEBSITE PREVIEW V14
+
+This preview updates the Who We Help page only, using the approved direction:
+- Focus on buyer behaviour, expertise and trust, customer economics, and a sustained growth mindset.
+- Remove the fixed monthly retainer amount and the priority-industry list.
+- Add a visual four-part fit framework inspired by the What We Do workflow cards.
+- Explain the three-part opportunity assessment: customer economics, buying behaviour, and search opportunity.
+- Set realistic expectations that search visibility and measurable pipeline contribution take time.
+- Add a Strategic Visibility Review call to action.
+
+The ZIP retains the existing homepage, What We Do page, global typography, navigation, footer, assets, and all other pages from V13. This is a preview package for the homepage-redesign-preview branch. Do not replace or delete the repository's .git folder when copying files.

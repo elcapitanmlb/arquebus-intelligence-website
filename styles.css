@@ -124,3 +124,23 @@ p{margin:0 0 1rem;color:var(--muted)}
 .final-cta p:not(.eyebrow){margin:0;color:var(--muted,#aeb6c6);line-height:1.65}
 .final-cta .button{flex:0 0 auto;white-space:nowrap}
 @media(max-width:760px){.workflow-section{padding-top:52px}.section-intro{margin-bottom:28px}.workflow-grid{grid-template-columns:1fr}.workflow-card{min-height:0;padding:22px}.commercial-outcome{padding:22px;gap:14px}.channel-grid{grid-template-columns:1fr}.channel-card{padding:20px}.channel-connector{height:28px;max-width:55%}.final-cta{align-items:flex-start;flex-direction:column;padding:24px;margin-top:44px}.final-cta .button{white-space:normal}.infrastructure-node{padding:22px}.outcome-tags{gap:8px}}
+
+
+/* V13 typography refinement: slightly calmer type scale across the site */
+html{font-size:95%}
+body{font-size:.96rem}
+h1{font-size:clamp(2.35rem,4.6vw,3.8rem)}
+h2{font-size:clamp(1.7rem,3.1vw,2.45rem)}
+h3{font-size:clamp(1.12rem,1.7vw,1.42rem)}
+p,li{line-height:1.68}
+.lead{font-size:1.04rem;line-height:1.72}
+.eyebrow.page-kicker{color:var(--accent,#e8b74f);font-size:.78rem;letter-spacing:.15em;text-transform:uppercase;font-weight:750;margin:0 0 14px}
+.workflow-card h3{font-size:1.18rem}
+.infrastructure-node h3{font-size:1.48rem}
+.channel-card h3{font-size:1.08rem}
+.final-cta h2{font-size:clamp(1.4rem,2.7vw,2.05rem)}
+@media(max-width:760px){
+  h1{font-size:clamp(2rem,8vw,2.9rem)}
+  h2{font-size:clamp(1.55rem,6vw,2rem)}
+  .lead{font-size:1rem}
+}

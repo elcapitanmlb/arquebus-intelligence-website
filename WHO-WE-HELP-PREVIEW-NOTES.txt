@@ -1,8 +1,9 @@
-WHO WE HELP PAGE PREVIEW - V19
+WHO WE HELP PAGE PREVIEW - V20
 
-Changes in V19:
-- Removed all text beneath the divider lines in the four buyer-fit cards.
-- Kept the divider lines and moved them slightly farther from the body copy by increasing the top spacing.
-- Preserved the centered "What makes a strong fit" eyebrow and the other previously approved page changes.
+Changes in this version:
+- Removed the decorative yellow icons from the top-right of all four fit cards.
+- Removed the divider lines from the bottom of all four fit cards, along with their empty output elements.
+- Moved the Strategic Visibility Review CTA from the bottom section into the hero area and styled it as a smaller button.
+- Kept the “What makes a strong fit” eyebrow centred above its heading and supporting copy.
 
-Preview only. Replace files in the preview branch, preserving the repository .git folder.
+The site is a preview package. Apply it to the homepage-redesign-preview branch and keep the .git folder intact. Do not promote to production until approved.

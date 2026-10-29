@@ -230,3 +230,9 @@ p,li{line-height:1.68}
   min-height: 24px;
 }
 .who-criteria-card .workflow-output span { display: none; }
+
+/* Who We Help V20 refinements */
+.who-criteria-card .workflow-icon,
+.who-criteria-card .workflow-output { display: none !important; }
+.who-hero .who-hero-cta { margin-top: 24px; }
+.who-hero .who-hero-cta .button { display: inline-flex; align-items: center; gap: 8px; padding: 10px 16px; font-size: .88rem; line-height: 1.2; }

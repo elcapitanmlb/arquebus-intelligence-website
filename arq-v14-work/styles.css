@@ -187,3 +187,27 @@ p,li{line-height:1.68}
 .who-final-cta .button{flex-shrink:0}
 @media(max-width:850px){.who-opportunity-grid{grid-template-columns:1fr}.who-timeline-layout{grid-template-columns:1fr;gap:24px}.who-final-cta{align-items:flex-start;flex-direction:column}.who-final-cta .button{white-space:normal}}
 @media(max-width:760px){.who-criteria-grid{grid-template-columns:1fr}.who-criteria-card{padding:22px}.who-timeline-steps{grid-template-columns:1fr;gap:16px}.who-timeline-steps>div{display:grid;grid-template-columns:34px 1fr;column-gap:8px}.who-timeline-steps span{grid-row:span 2}.who-timeline-steps small{grid-column:2}.who-final-cta{padding:24px}}
+
+
+/* Who We Help V15: consistent hero copy and buyer criteria list */
+.who-hero .who-buyer-intro,
+.who-hero .who-hero-copy {
+  color: #d1cdc4;
+  font-size: 1rem;
+  line-height: 1.7;
+  font-weight: 400;
+  opacity: 1;
+}
+.who-hero .who-buyer-intro { margin: 20px 0 8px; }
+.who-hero .who-buyer-list {
+  max-width: 790px;
+  margin: 0 0 0 1.25rem;
+  padding-left: 1rem;
+  color: #d1cdc4;
+  font-size: 1rem;
+  line-height: 1.7;
+  font-weight: 400;
+  opacity: 1;
+}
+.who-hero .who-buyer-list li { margin: 0 0 5px; padding-left: 3px; }
+.who-hero .who-hero-copy { margin-top: 18px; }

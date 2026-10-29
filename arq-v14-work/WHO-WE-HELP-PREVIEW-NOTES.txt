@@ -9,3 +9,5 @@ This preview updates the Who We Help page only, using the approved direction:
 - Add a Strategic Visibility Review call to action.
 
 The ZIP retains the existing homepage, What We Do page, global typography, navigation, footer, assets, and all other pages from V13. This is a preview package for the homepage-redesign-preview branch. Do not replace or delete the repository's .git folder when copying files.
+
+V15 copy refinement: equalised hero paragraph typography and reframed buyer description as three bullets.

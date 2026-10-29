@@ -1,9 +1,8 @@
-ARQUEBUS INTELLIGENCE WEBSITE PREVIEW V18
+WHO WE HELP PAGE PREVIEW - V19
 
-Who We Help page refinements:
-- Removed the three hero tag bubbles: Research-led buying, Expertise and trust, and Commercially grounded.
-- Restored the “What makes a strong fit” eyebrow and explicitly centered it above the corresponding heading and supporting paragraph.
-- Removed “Look for” labels from the four fit cards; the card headings and descriptions remain.
-- Retained the buyer-intro bullet list, opportunity framework, realistic time-horizon section, and Strategic Visibility Review CTA.
+Changes in V19:
+- Removed all text beneath the divider lines in the four buyer-fit cards.
+- Kept the divider lines and moved them slightly farther from the body copy by increasing the top spacing.
+- Preserved the centered "What makes a strong fit" eyebrow and the other previously approved page changes.
 
-This package includes the full website with the Who We Help page and shared stylesheet updated. Extract the ZIP and copy the files from the ZIP root into the existing repository on the homepage-redesign-preview branch. Keep the .git folder intact. Do not merge or deploy to production until approved.
+Preview only. Replace files in the preview branch, preserving the repository .git folder.

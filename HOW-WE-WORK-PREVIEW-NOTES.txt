@@ -1,11 +1,13 @@
-HOW WE WORK PAGE PREVIEW — V22
+HOW WE WORK PAGE PREVIEW - V23
 
-Hero copy updated:
-Headline: Understand the business. Align the strategy. Execute for growth.
+Implemented the approved hero content and visual layout.
 
-Supporting copy:
-We start by understanding your business fundamentals, including your offer, ideal customer profile, market, pricing and business model. We assess how your positioning, messaging, brand and existing acquisition channels work together, and where Search Infrastructure across content, SEO and AEO can create the greatest opportunity.
+The hero now introduces three connected assessment areas in separate responsive cards:
+01 Business fundamentals: offer, ideal customer profile, market opportunity, pricing and business model.
+02 Marketing and brand: positioning, messaging, brand identity and existing acquisition channels.
+03 Search Infrastructure: existing content, SEO and AEO foundations, current search visibility, and opportunities to strengthen discovery and acquisition.
 
-We then translate these insights into a commercially aligned strategy and execute the programme with clear priorities, efficient implementation, speed and a commitment to an exceptional client experience.
+The closing paragraph explains how the three assessments inform a commercially aligned strategy and focused execution, with an emphasis on client experience and measurable progress towards business and revenue goals.
 
-The four process cards and all other page sections remain unchanged in this iteration. Shared styles and all other website pages are retained from V21.
+The four process cards and Measurement Principles section below the hero are unchanged.
+Desktop: three cards in one row. Tablet: two cards then one full-width card. Mobile: stacked cards.

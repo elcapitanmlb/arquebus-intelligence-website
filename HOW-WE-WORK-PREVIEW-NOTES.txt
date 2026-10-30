@@ -1,13 +1,12 @@
-V24 HOW WE WORK PAGE PREVIEW
+V25 HOW WE WORK PAGE PREVIEW
 
 Changes in this version:
-- Updated the four methodology cards to the approved Diagnose, Prioritise, Implement and Measure content.
-- Diagnose now assesses business fundamentals, marketing and brand, and Search Infrastructure in the same order as the hero.
-- Prioritise explains how findings become a commercially aligned roadmap.
-- Implement explicitly covers positioning and messaging, content, and Search Infrastructure.
-- Measure now connects visibility and traffic to enquiries, qualified pipeline, conversion and acquisition efficiency.
-- Added a compact commercial outcomes section covering lower CPL, lower CAC, shorter sales cycles and higher conversion ratios.
-- Outcomes are framed as intended areas of improvement, not guaranteed results.
-- Preserved the hero, three foundation cards, navigation, footer and other website pages.
+- Removed the Measurement Principles section entirely.
+- Added a compact closing CTA section above the footer.
+- CTA headline: “Let’s connect your business strategy to search-driven growth.”
+- CTA supporting copy invites visitors to assess opportunities, identify changes and build a roadmap aligned with commercial goals.
+- CTA links to the existing Strategic Visibility Review page.
+- Retained the hero, three foundation cards, four-stage methodology and commercial outcomes section.
+- All other website pages, navigation, shared styles and footer are preserved.
 
 Preview only. Deploy on the homepage-redesign-preview branch. Do not replace the .git folder.

@@ -1,4 +1,4 @@
-SAFE IMPORT — V22 HOW WE WORK HERO UPDATE
+SAFE IMPORT — V25 HOW WE WORK CTA UPDATE
 
 1. In GitHub Desktop, select homepage-redesign-preview, NOT main.
 2. Choose Repository > Show in Explorer.

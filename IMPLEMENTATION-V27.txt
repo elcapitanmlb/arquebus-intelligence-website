@@ -1,0 +1,14 @@
+ARQUEBUS INTELLIGENCE WEBSITE - V27
+Homepage integrated three-pillar framework
+
+Changes:
+- Replaced the separate pillar cards and boxed outcomes panel with one integrated framework.
+- Sharpened the introductory line to: "Three connected pillars. One commercial objective."
+- Presented Business, Marketing & Brand, and Search Infrastructure as three connected columns with subtle separators.
+- Connected the pillars to the four business outcomes in a single integrated footer band.
+- Retained the approved homepage hero, ICP section, Strategic Visibility Review section, navigation and footer.
+- Retained all other pages from V26, including the approved How We Work page.
+- Added responsive layouts for desktop, tablet and mobile.
+
+Implementation:
+Replace the files in the preview branch with the contents of this ZIP. Preserve the repository's .git folder. This package does not deploy to production automatically.

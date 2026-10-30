@@ -1,0 +1,13 @@
+ARQUEBUS INTELLIGENCE WEBSITE PREVIEW - V28
+
+Homepage framework refinements:
+- Changed the first pillar label to "Business Objectives".
+- Centred the framework within the hero content area with a defined maximum width.
+- Centred the introductory sentence and applied the site's gold accent colour.
+- Centred the "Driving better acquisition economics" heading.
+- Replaced small text separators between outcomes with larger gold bullet points.
+- Reduced internal spacing and refined responsive layouts to keep the framework compact.
+
+All other pages and approved content are retained from V27. Preview branch only; production is not changed.
+
+To apply: extract this ZIP into the existing repository on homepage-redesign-preview, preserve .git, commit and push, then review the latest Vercel preview.

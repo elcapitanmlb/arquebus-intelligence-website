@@ -264,3 +264,22 @@ p,li{line-height:1.68}
 .how-hero .hero-actions{margin-top:24px}
 @media(max-width:850px){.how-foundation-grid{grid-template-columns:1fr 1fr}.how-foundation-card:last-child{grid-column:1/-1}}
 @media(max-width:600px){.how-hero{padding-top:58px;padding-bottom:44px}.how-foundation-grid{grid-template-columns:1fr;gap:12px}.how-foundation-card:last-child{grid-column:auto}.how-foundation-card{padding:21px}.how-foundation-top{margin-bottom:12px}.how-hero .how-intro{margin-top:18px}.how-hero .how-conclusion{margin-top:20px}}
+
+/* How We Work V24: detailed process stages and commercial outcome measures */
+.process-steps .step-card h3{min-height:2.65em}
+.process-steps .step-card p{font-size:.88rem;line-height:1.62}
+.process-detail-list{margin:10px 0 0;padding-left:18px;color:var(--muted);font-size:.84rem;line-height:1.58}
+.process-detail-list li{margin:0 0 9px;padding-left:2px}
+.process-detail-list strong{color:var(--text);font-weight:650}
+.process-card-note{margin-top:10px!important;padding-top:10px;border-top:1px solid var(--line)}
+.outcomes-section{padding-top:44px;padding-bottom:54px}
+.outcomes-heading{max-width:780px;margin:0 auto 24px;text-align:center}
+.outcomes-heading h2{margin:8px 0 10px}
+.outcomes-heading>p:last-child{color:var(--muted);font-size:.92rem;line-height:1.65}
+.outcomes-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.outcome-item{padding:20px 18px;border:1px solid var(--line);border-radius:15px;background:var(--panel);text-align:center}
+.outcome-direction{display:block;color:var(--accent,#e8b74f);font-size:1.65rem;font-weight:750;line-height:1;margin-bottom:8px}
+.outcome-item h3{margin:0 0 5px;font-size:1.02rem}
+.outcome-item p{margin:0;color:var(--muted);font-size:.82rem}
+@media(max-width:1050px){.process-detail-list{font-size:.88rem}.outcomes-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.process-steps .step-card h3{min-height:0}.outcomes-grid{grid-template-columns:1fr 1fr}.outcome-item{padding:17px 12px}}

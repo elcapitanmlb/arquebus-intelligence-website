@@ -1,0 +1,31 @@
+ARQUEBUS INTELLIGENCE WEBSITE - V26 HOMEPAGE UPDATE
+
+This package contains the complete website, based on the V25 codebase, with the approved homepage changes applied.
+
+HOMEPAGE CHANGES
+1. Hero eyebrow changed to: Search Infrastructure · AI visibility · GTM alignment.
+2. Hero headline retained: Show up ahead of your competitors when buyers are searching.
+3. Added a concise introduction to the three interconnected areas.
+4. Added three compact pillars:
+   - Business: Offer, ICP, market, pricing and business model.
+   - Marketing: Positioning, messaging, brand and acquisition channels.
+   - Search Infrastructure: Content, SEO, AEO and AI search visibility.
+5. Added a connected business outcomes strip: qualified pipeline, lower CPL and CAC, shorter sales cycles, and higher conversion.
+6. Added the approved ICP section:
+   - Headline: For businesses where trust is earned before the sale.
+   - Copy references established, growth-oriented businesses, research-intensive buying journeys, expertise, education, credibility and acquisition efficiency.
+   - Includes a link to the full Who We Help page.
+7. Retained the existing Strategic Visibility Review section, navigation, footer and other homepage content.
+
+OTHER PAGES
+All other pages are retained from V25, including the approved How We Work page and its closing CTA. No other page content has been intentionally changed in this update.
+
+APPLYING THE UPDATE
+1. Extract this ZIP.
+2. Copy the extracted files and folders into the existing website repository on the homepage-redesign-preview branch.
+3. Allow files to be replaced when prompted.
+4. Do not delete or replace the repository's .git folder.
+5. Commit and push using GitHub Desktop.
+6. Review the latest Vercel preview deployment. Production remains untouched unless separately promoted.
+
+The files are at the root of the ZIP. index.html is the homepage. styles.css contains the shared styles and homepage-specific responsive layout.

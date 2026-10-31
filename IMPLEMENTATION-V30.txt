@@ -1,0 +1,14 @@
+ARQUEBUS INTELLIGENCE WEBSITE - V30
+Homepage refinements
+
+Changes:
+- Introductory sentence is now full-opacity white, with “customer acquisition system” highlighted in gold italics.
+- Pillar 01 renamed “Business Objectives”.
+- Pillar 02 renamed “Marketing & Brand”.
+- All three pillar headings now sit beside their numbered badges.
+- Pillar details are presented as compact bullet points.
+- Removed individual outcome pills; outcomes now appear as bullet points inside the existing business outcomes panel.
+
+All other pages and approved content are retained from V29.
+
+To preview: extract this ZIP into the existing repository on homepage-redesign-preview, keeping .git intact. Commit and push the changes, then inspect the latest Vercel preview. Do not replace the .git folder.

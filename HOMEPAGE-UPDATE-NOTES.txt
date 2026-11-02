@@ -11,3 +11,7 @@ Changes:
 
 All other website files are retained from the working V10 package.
 This ZIP contains website files only. Do not overwrite or delete the repository’s .git folder.
+
+V32 homepage Who We Help copy update:
+- Removed the word "established" from the homepage Who We Help paragraph.
+- Removed the supporting line "Industry agnostic. Commercially grounded. Built for sustained growth."

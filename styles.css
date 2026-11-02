@@ -309,3 +309,6 @@ p,li{line-height:1.68}
 .home-icp-copy .text-link{margin-top:0}
 @media(max-width:850px){.home-pillars{grid-template-columns:1fr 1fr}.home-icp-inner{grid-template-columns:1fr;gap:22px}}
 @media(max-width:520px){.home-pillars{grid-template-columns:1fr;gap:10px}.home-pillar{min-height:0;padding:15px}.home-outcomes{padding:14px}.home-outcome-list{gap:8px 16px}.home-icp-inner{gap:18px}}
+
+/* What We Do hero: concise, scannable alignment and outcomes */
+.page-hero .what-we-do-hero-copy{line-height:1.65}.page-hero .what-we-do-hero-copy p{margin:0 0 9px}.page-hero .what-we-do-hero-copy ul{margin:0 0 16px;padding-left:24px}.page-hero .what-we-do-hero-copy li{margin:0 0 5px;color:#d1cdc4}.page-hero .what-we-do-hero-copy li:last-child{margin-bottom:0}

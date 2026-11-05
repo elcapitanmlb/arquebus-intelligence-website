@@ -325,3 +325,14 @@ p,li{line-height:1.68}
 .what-we-do-panel li::before{content:"";position:absolute;left:0;top:.62em;width:5px;height:5px;border-radius:50%;background:var(--gold-light,var(--accent,#e8b74f))}
 .page-hero .what-we-do-framework + .hero-actions{margin-top:25px}
 @media(max-width:680px){.what-we-do-framework{grid-template-columns:1fr;gap:12px;margin-top:24px}.what-we-do-panel{padding:20px}}
+
+
+/* V37 What We Do refinements */
+.section-intro>p:last-child{font-size:clamp(1.05rem,1.5vw,1.22rem);color:#d1cdc4;line-height:1.7;max-width:760px;margin:0 auto}
+.workflow-grid{align-items:stretch;grid-auto-rows:1fr}
+.workflow-card{height:100%;min-height:360px}
+.workflow-top{margin-bottom:22px}
+.workflow-icon{display:none!important}
+.workflow-output{margin-top:auto;padding-top:16px}
+.outcome-tags span{white-space:normal}
+@media(max-width:760px){.workflow-grid{grid-auto-rows:auto}.workflow-card{height:auto;min-height:0}.workflow-output{margin-top:22px}}

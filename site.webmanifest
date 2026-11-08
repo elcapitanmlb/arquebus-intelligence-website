@@ -1,11 +1,10 @@
 {
   "name": "Arquebus Intelligence",
   "short_name": "Arquebus",
-  "description": "Search strategy, expert-led content and AI search visibility for inbound growth.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0b0b09",
-  "theme_color": "#0b0b09",
+  "background_color": "#0b0b0a",
+  "theme_color": "#0b0b0a",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

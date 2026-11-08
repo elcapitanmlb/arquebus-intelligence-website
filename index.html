@@ -100,11 +100,6 @@
 <p class="lead home-framework-intro">Aligning brand, go-to-market (GTM) and Search Infrastructure to improve customer acquisition.</p>
 <div class="home-outcomes"><p class="eyebrow">Built to improve</p><ul class="home-outcome-list"><li>Qualified pipeline</li><li>Lower CPL and CAC</li><li>Shorter sales cycles</li><li>Higher conversion</li></ul><p class="home-outcomes-support">While strengthening paid acquisition and outbound.</p></div>
 <div class="hero-actions"><a class="button" href="/strategic-visibility-review/">Book a Strategic Visibility Review <span aria-hidden="true">↗</span></a></div>
-</div></section>
-
-<section class="section compact home-icp"><div class="container home-icp-inner">
-  <div><p class="eyebrow">Who we help</p><h2>For businesses where trust is earned before the sale.</h2></div>
-  <div class="home-icp-copy"><p>We partner with growth-oriented businesses whose buyers research extensively, compare alternatives and need confidence before buying.</p><p>Our approach is particularly suited to businesses where expertise, education and credibility influence purchasing decisions, and where improving acquisition efficiency can create meaningful commercial value.</p><a class="text-link" href="/who-we-help/">Explore who we help ↗</a></div>
 </div>
 <aside class="ai-demo" aria-hidden="true">
   <div class="ai-demo-card">
@@ -122,6 +117,12 @@
   </div>
 </aside>
 </div></section>
+
+<section class="section compact home-icp"><div class="container home-icp-inner">
+  <div><p class="eyebrow">Who we help</p><h2>For businesses where trust is earned before the sale.</h2></div>
+  <div class="home-icp-copy"><p>We partner with growth-oriented businesses whose buyers research extensively, compare alternatives and need confidence before buying.</p><p>Our approach is particularly suited to businesses where expertise, education and credibility influence purchasing decisions, and where improving acquisition efficiency can create meaningful commercial value.</p><a class="text-link" href="/who-we-help/">Explore who we help ↗</a></div>
+</div>
+</section>
 
 <section class="section"><div class="container split-cta">
 <div><p class="eyebrow">Start with clarity</p><h2>Show up when and where your customers are looking.</h2><p style="margin-top:16px">The Strategic Visibility Review identifies strategic misalignment, search visibility gaps and growth opportunities, then translates them into a prioritised 90-day roadmap.</p><a class="button" href="/strategic-visibility-review/">Book a Strategic Visibility Review <span aria-hidden="true">↗</span></a></div>
@@ -162,32 +163,33 @@ if(toggle&&links){toggle.addEventListener('click',()=>{const open=links.classLis
   'Which search strategy supports broader GTM goals?'
  ];
  if(reduce){typed.textContent=questions[0];stage.classList.add('show');return;}
- const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
- let cancelled=false;
+ const pause=ms=>new Promise(resolve=>window.setTimeout(resolve,ms));
+ let running=true;
  async function run(){
-  await wait(900);
   let index=0;
-  while(!cancelled){
+  while(running){
+   if(document.hidden){await pause(700);continue;}
    const question=questions[index++%questions.length];
    stage.classList.remove('show');
    typed.textContent='';
    for(const character of question){
-    if(cancelled)return;
+    if(!running)return;
+    if(document.hidden)break;
     typed.textContent+=character;
-    await wait(38);
+    await pause(38);
    }
-   await wait(300);
-   if(cancelled)return;
+   if(document.hidden)continue;
+   await pause(300);
+   if(document.hidden)continue;
    thinking.classList.add('on');
-   await wait(950);
+   await pause(950);
    thinking.classList.remove('on');
-   if(cancelled)return;
+   if(document.hidden)continue;
    stage.classList.add('show');
-   await wait(4800);
+   await pause(4800);
   }
  }
  run();
- document.addEventListener('visibilitychange',()=>{if(document.hidden){thinking.classList.remove('on');}});
 })();
 </script>
 </body></html>

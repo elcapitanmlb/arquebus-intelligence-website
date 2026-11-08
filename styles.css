@@ -427,3 +427,14 @@ body>header,body>main,body>footer{position:relative;z-index:1}
 @media(max-width:980px){.hero-layout{grid-template-columns:1fr;gap:36px}.ai-demo{justify-self:start;max-width:600px;width:100%}.hero-layout .hero-content{max-width:850px}}
 @media(max-width:560px){.ai-demo-card{padding:16px}.ai-demo-row{font-size:.82rem;padding:11px 10px}.ai-demo-label{font-size:.64rem}}
 @media(prefers-reduced-motion:reduce){.ai-demo-caret,.ai-demo-thinking i{animation:none!important}.ai-demo-thinking{display:none}.ai-demo-stage .ai-demo-label,.ai-demo-stage .ai-demo-row{opacity:1;transform:none;transition:none}}
+
+
+/* Subtle architectural grid: shared background across all pages */
+body{
+  background-color:var(--bg);
+  background-image:
+    linear-gradient(rgba(216,180,107,.022) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(216,180,107,.022) 1px, transparent 1px);
+  background-size:120px 120px;
+  background-position:center top;
+}

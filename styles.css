@@ -373,9 +373,8 @@ p,li{line-height:1.68}
 .site-spotlight{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:0;transition:opacity .45s ease;background:radial-gradient(300px circle at var(--spot-x,50vw) var(--spot-y,40vh),rgba(197,160,90,.075),transparent 72%)}
 body.spotlight-live .site-spotlight{opacity:1}
 body>header,body>main,body>footer{position:relative;z-index:1}
-/* Homepage-only faint architectural grid */
-.hero:before{display:none}
-.hero:after{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;opacity:.22;background-image:linear-gradient(to right,rgba(240,237,229,.055) 1px,transparent 1px),linear-gradient(to bottom,rgba(240,237,229,.055) 1px,transparent 1px);background-size:120px 120px;background-position:center top}
+/* A single, consistent architectural grid is applied to the site background below. */
+.hero:before,.hero:after{display:none!important}
 .hero-content{position:relative;z-index:1}
 /* Premium gold CTA treatment; preserve existing dimensions */
 .button:not(.secondary){position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(180deg,var(--gold-light),var(--gold) 52%,#a98543);color:#17130a;border-color:rgba(240,217,164,.5);box-shadow:inset 0 0 0 1px rgba(240,217,164,.24),0 7px 20px -12px rgba(197,160,90,.48);transition:transform .22s ease,box-shadow .22s ease,filter .22s ease}
@@ -393,7 +392,6 @@ body>header,body>main,body>footer{position:relative;z-index:1}
 .text-link:hover{opacity:.88}
 .motion-reveal{opacity:0;transform:translateY(6px);transition:opacity .48s ease,transform .48s ease}
 .motion-reveal.is-visible{opacity:1;transform:none}
-@media(max-width:850px){.hero:after{background-size:100px 100px;opacity:.16}}
 @media(prefers-reduced-motion:reduce){.site-spotlight{display:none!important}.button:not(.secondary),.button:not(.secondary):before,.button span[aria-hidden="true"],.nav-links a:not(.button):after,.motion-reveal{transition:none!important;animation:none!important}.button:not(.secondary):hover,.button:not(.secondary):focus-visible{transform:none}.motion-reveal{opacity:1;transform:none}}
 
 /* Homepage AI visibility demonstration */
@@ -433,8 +431,8 @@ body>header,body>main,body>footer{position:relative;z-index:1}
 body{
   background-color:var(--bg);
   background-image:
-    linear-gradient(rgba(216,180,107,.022) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(216,180,107,.022) 1px, transparent 1px);
+    linear-gradient(rgba(216,180,107,.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(216,180,107,.035) 1px, transparent 1px);
   background-size:120px 120px;
   background-position:center top;
 }

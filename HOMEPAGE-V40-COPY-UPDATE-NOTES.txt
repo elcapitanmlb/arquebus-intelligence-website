@@ -1,9 +1,0 @@
-V40 homepage copy update
-
-- Intro: Aligning brand, go-to-market (GTM) and Search Infrastructure to improve customer acquisition.
-- Pillars reordered to Brand, GTM and Search Infrastructure.
-- GTM descriptor: Sales systems and targets.
-- Search Infrastructure descriptor: Search optimization and brand visibility.
-- Slightly increased Built to improve label and outcome text sizes.
-- Italicised the paid acquisition and outbound supporting statement.
-- Preserved V39 layout and all other site content and assets.

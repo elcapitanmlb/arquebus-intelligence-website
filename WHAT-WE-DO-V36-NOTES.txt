@@ -1,7 +1,0 @@
-V36 What We Do hero update
-
-- Replaced the stacked introductory lists with two side-by-side panels.
-- Panel 01: Strategic alignment (business & sales objectives; brand, positioning & messaging; go-to-market strategy).
-- Panel 02: Search Infrastructure outcomes (stronger discovery & credibility; more qualified buyer demand; stronger acquisition across organic, paid & outbound).
-- Preserved the page headline, CTA, remaining page sections, footer and other site pages.
-- Responsive layout stacks the two panels on smaller screens.

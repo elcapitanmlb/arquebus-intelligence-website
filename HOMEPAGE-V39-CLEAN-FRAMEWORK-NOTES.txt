@@ -1,9 +1,0 @@
-V39 homepage framework update
-
-- Removed the three bordered pillar cards and their detailed bullet lists.
-- Replaced them with a compact, open three-pillar framework: Business, Brand and Search.
-- Condensed the introductory copy to: Business, brand and search, aligned to make customer acquisition more effective.
-- Simplified the outcomes presentation and retained qualified pipeline, lower CPL and CAC, shorter sales cycles and higher conversion.
-- Retained paid acquisition and outbound as supporting copy.
-- Preserved homepage headline, CTA, other homepage sections, all other pages, and the existing footer.
-- Responsive layout keeps the three pillars side by side on mobile with compact spacing.

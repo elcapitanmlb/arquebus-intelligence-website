@@ -1,9 +1,0 @@
-V37 What We Do page refinements
-
-- Updated What We Do headline to: Building the Search Infrastructure that helps your business get found, trusted and chosen.
-- Removed the bottom-right GTM-aligned Search Infrastructure footer phrase from every page.
-- Matched the second explanatory paragraph typography to the preceding lead paragraph.
-- Removed top-right icons from the four workflow cards.
-- Equalised workflow card heights and anchored Outputs sections to the bottom for aligned dividers/labels on desktop; mobile cards stack naturally.
-- Added Reduced customer acquisition cost (CAC) to the Search Infrastructure hero panel.
-- Updated shared commercial outcomes to Qualified pipeline, Increased conversion, Increased acquisition efficiency, Lower customer acquisition cost (CAC), and Greater return on acquisition spend.

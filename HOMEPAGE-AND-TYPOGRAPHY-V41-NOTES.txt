@@ -1,7 +1,0 @@
-V41 updates
-
-- Replaced the Strategic Visibility Review description wherever the previous exact wording appeared (1 occurrence(s)).
-- Revised headline sizing across the site with a consistent 64px maximum on desktop via clamp().
-- Reduced homepage hero headline scale.
-- Changed homepage Brand, GTM and Search Infrastructure pillar titles from bold to medium weight.
-- Preserved existing page layouts and content otherwise.
